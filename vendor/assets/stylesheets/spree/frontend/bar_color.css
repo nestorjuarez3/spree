@@ -1,0 +1,55 @@
+#spree-header{
+	background: grey;
+}
+#default{
+	color:white;
+	font-family: "Comic Sans MS";
+	background-color: #FF6347;
+}
+#product-details{
+	color:white;
+	font-family: "Comic Sans MS";
+	background-color: darkblue;
+}
+#checkout-page{
+	color: darkred;
+}
+.well{
+	color: black;
+}
+.active{
+	color: black;
+}
+#order-total{
+	color: black;
+}
+#legend{
+	color: white;
+}
+.breadcrumb{
+	background-color: chocolate;
+}
+
+#spree-header{
+	background: grey;
+}
+#home-page{
+	color:white;
+	font-family: "Comic Sans MS";
+	background-color: #FF6347;
+
+}
+.panel-body{
+	background-color: yellow;
+}
+.panel-footer{
+	background-color: grey;
+}
+.a.list-group-item{
+	background-color: yellow;
+	color: white;
+}
+.list-group-item{
+	background-color: #9ACD32;
+	color: white;
+}
